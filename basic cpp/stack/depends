@@ -1,0 +1,2 @@
+stack.o: stack.cpp Stack64.h
+testMU.o: testMU.cpp mu_test.h Stack64.h

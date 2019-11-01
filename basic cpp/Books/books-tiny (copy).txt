@@ -1,0 +1,15 @@
+ISBN|Book-Title|Book-Author|Year-Of-Publication|Publisher
+195153448|Classical Mythology|Mark P. O. Morford|2002|Oxford University Press
+425183009|Submarine : A Guided Tour Inside a Nuclear Warship|Tom Clancy|2002|Berkley Publishing Group
+2005018|Clara Callan|Richard Bruce Wright|2001|Harper Perennial
+136362346|Open Systems (Prentice Hall Series in Innovative Technology)|Gary J. Nutt|1991|Prentice Hall
+399136312|The Sum of All Fears|Tom Clancy|1991|Putnam Publishing Group
+60973129|Decision in Normandy|Carlo D'Este|1991|Harper Perennial
+804106304|The Joy Luck Club|Amy Tan|1994|Prentice Hall
+374157065|Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It|Gina Bari Kolata|1999|Farrar Straus Giroux
+399135782|The Kitchen God's Wife|Amy Tan|1991|Putnam Publishing Group
+133502813|Chemistry|John McMurry|1994|Prentice Hall
+425176428|What If?: The World's Foremost Military Historians Imagine What Might Have Been|Robert Cowley|2000|Berkley Publishing Group
+771597185|The teacher's daughter|Richard Bruce Wright|1982|Macmillan of Canada
+080411109x|The Hundred Secret Senses|Amy Tan|1996|Ivy Books
+399132414|Patriot Games|Tom Clancy|1987|Putnam Publishing Group

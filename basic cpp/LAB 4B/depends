@@ -1,0 +1,2 @@
+StringUnitTest.o: StringUnitTest.cpp mu_test.h String.h
+String.o: String.cpp String.h

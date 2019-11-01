@@ -1,0 +1,2 @@
+RationalTest.o: RationalTest.cpp mu_test.h Rational.h
+Rational.o: Rational.cpp Rational.h

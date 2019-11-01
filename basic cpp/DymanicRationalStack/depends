@@ -1,0 +1,5 @@
+DynamicRationalStackTest.o: DynamicRationalStackTest.cpp mu_test.h \
+ DynamicRationalStack.h Rational.h
+DynamicRationalStack.o: DynamicRationalStack.cpp Rational.h \
+ DynamicRationalStack.h
+rational.o: rational.cpp Rational.h

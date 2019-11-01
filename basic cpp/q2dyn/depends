@@ -1,0 +1,2 @@
+DynStackTest.o: DynStackTest.cpp mu_test.h DynStack.h
+DynStack.o: DynStack.cpp DynStack.h
